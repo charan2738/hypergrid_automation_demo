@@ -1,0 +1,37 @@
+launch the customer login page
+check the customers are available 
+
+launch the customer login page 
+select valid customer 
+goto account dash board copy url 
+logout the account and enter the account dashboard url
+click login page
+
+
+customer must register the bank	applications
+login as a bank manager
+open account to customer
+
+
+login as a bank manager
+select the existing customer
+open the account for customer
+
+customer will login to the bank account page and selects valid customer and click login  then it will redirect to account dashboard
+
+after successful login if customer refreshes page it is in login state
+
+please enter valid customer name
+
+
+I want to know difference between 5and 6 test objective
+7 complicated want some clarity 
+
+
+login as a bank manager
+select the existing customer
+open the account for customer
+select currencies 
+
+
+xpath css selector important 
